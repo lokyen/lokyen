@@ -2,7 +2,7 @@
 
 - :whale: I'm currently working on developing my skills in SQL and web development
 
-- :flipper: During my free time, I enjoy messing around with Unity & Blender & learning some Japanese
+- :flipper: During my free time, I enjoy messing around with Unity & Blender & learning Japanese
 
 - :ice_cube: Fun fact: I love the color blue. Just about everything I own is blue :cold_face:
 <!--
