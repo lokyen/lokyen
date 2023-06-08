@@ -4,7 +4,7 @@
 
 - :flipper: During my free time, I enjoy messing around with Unity & Blender & learning Japanese
 
-- :ice_cube: Fun fact: I love the color blue. Just about everything I own is blue :cold_face:
+- :ice_cube: Fun fact: I love the color blue. Just about everything I own is blue except for this profile pic :cold_face:
 <!--
 **lokyen/lokyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
